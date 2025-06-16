@@ -16,7 +16,7 @@ const Header = () => {
           <span>Investor Relations</span>
           <span>Add restaurant</span>
           <span>Log in</span>
-          <span>Sign up</span>
+          <span>Sign test up</span>
         </div>
       </nav>
       <div className="hamburger" onClick={() => setOpen(!open)}>
